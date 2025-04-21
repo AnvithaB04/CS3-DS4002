@@ -31,19 +31,23 @@ Contains references contextualizing the project:
 - `data_organization.py`: Sorts raw images into breed folders
 - `data_preprocessing.py`: Resizes, normalizes, and augments images for training
 
-### Output folder
-- `accuracy_loss_plot.png`: Training and validation curves
-- `confusion_matrix.png`: Final confusion matrix
-
 ---
 
 ## ⚙️ Producing Results
 
 **Step 1: Download Data**
 - Go to [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
-- Download `images.tar.gz` and extract into `Data/InputData/images/`
+- Download `images.tar.gz` and extract into `DATA/`
 
 **Step 2: Organize and Preprocess**
 ```bash
-python Scripts/data_organization.py
-python Scripts/data_preprocessing.py
+python SCRIPTS/data_organization.py
+python SCRIPTS/data_preprocessing.py
+```
+
+**Step 3: Train & Evaluate the Model in Colab**  
+   - Mount Google Drive or upload the `DATA/organized_images/` directory to Colab.  
+   - Run all cells in `Model_Training_and_Evaluation.ipynb`.  
+
+**Step 4: Inspect Results**  
+   - Review training/validation performance in the output graphs.  
