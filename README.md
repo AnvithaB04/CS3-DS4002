@@ -34,7 +34,7 @@ Contains references contextualizing the project:
 - `Model_Training_and_Evaluation.ipynb`: Full Colab notebook for model training/evaluation
 - `data_organization.py`: Sorts raw images into breed folders
 - `data_preprocessing.py`: Resizes, normalizes, and augments images for training
-
+- `requirements.txt`: Lists all necessary Python packages and versions required to run the scripts
 ---
 
 ## ⚙️ Producing Results
