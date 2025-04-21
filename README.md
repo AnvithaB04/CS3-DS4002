@@ -7,7 +7,7 @@ This project classifies 35 breeds of dogs and cats using deep learning and trans
 ## 📚 Context
 
 Before doing anything, read the 2 files:
-- `CS3HookDocument.pdf` provides background on what this case is about
+- (`CS3HookDocument.pdf`) https://github.com/AnvithaB04/CS3-DS4002/blob/main/CS3HookDocument.pdf provides background on what this case is about
 - `CS3Rubric.pdf` outlines what is required for this assignment
 
 ---
