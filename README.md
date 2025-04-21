@@ -17,7 +17,6 @@ Before doing anything, read the 2 files:
 Contains references contextualizing the project:
 - [`blog_intro_to_transfer_learning.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/ARTICLES/blog_intro_to_transfer_learning.pdf): Beginner-friendly overview of transfer learning 
 (Understanding Transfer Learning for Deep Learning)
-
 - [`deep_resnet_paper.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/ARTICLES/deep_resnet_paper.pdf): Detailed explanation of the ResNet50 CNN architecture
 (Medium: Detailed Explanation of ResNet50)
 
