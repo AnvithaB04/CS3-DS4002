@@ -39,19 +39,8 @@ Contains references contextualizing the project:
 
 ## ⚙️ Producing Results
 
-**Step 1: Download Data**
-- Go to [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
-- Download `images.tar.gz` and extract into `DATA/`
+The most straightforward way to conduct the analysis is through using Google Colab, which provides access to powerful GPUs and has many of the necessary libraries pre-installed. You are welcome to use VS Code or Jupyter Notebook on your local machine; however, you will likely need to install the packages listed in requirements.txt.
 
-**Step 2: Organize and Preprocess**
-```bash
-python SCRIPTS/data_organization.py
-python SCRIPTS/data_preprocessing.py
-```
+To produce the results of this project, first read and follow the instructions in the Data Instructions PDF located in the Data/ folder. This document outlines how to download the Oxford-IIIT Pet Dataset, organize the raw images into breed-specific folders using a Python script, and preprocess the images by resizing, normalizing, and augmenting them. Once these steps are complete, upload the resulting organized_images folder (found in DATA/) to your Google Drive.
 
-**Step 3: Train & Evaluate the Model in Colab**  
-   - Mount Google Drive or upload the `DATA/organized_images/` directory to Colab.  
-   - Run all cells in `Model_Training_and_Evaluation.ipynb`.  
-
-**Step 4: Inspect Results**  
-   - Review training/validation performance in the output graphs.  
+Next, open the file Model_Training_and_Evaluation.ipynb located in the SCRIPTS/ folder using Google Colab. You will need to mount your Google Drive and update the file paths in the notebook to point to the uploaded organized_images directory. Once set up, run the notebook from top to bottom to load the data, train a ResNet-50 model using transfer learning, evaluate its performance, and generate output visualizations.
