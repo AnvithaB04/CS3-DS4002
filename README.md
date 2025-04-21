@@ -27,8 +27,8 @@ Contains references contextualizing the project:
 - `Data Instructions.pdf`: Explains how to download and organize the dataset
 
 ### Reference Materials
-- `CS3 Hook Document.pdf`: One-page overview of the project
-- `CS3 Rubric.pdf`: Submission guidelines and evaluation rubric
+- `CS3HookDocument.pdf`: One-page overview of the project
+- `CS3Rubric.pdf`: Submission guidelines and evaluation rubric
 
 ### Scripts folder
 - `Model_Training_and_Evaluation.ipynb`: Full Colab notebook for model training/evaluation
