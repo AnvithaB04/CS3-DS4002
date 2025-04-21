@@ -24,7 +24,7 @@ Contains references contextualizing the project:
 
 ### Data folder
 - `DataAppendix.pdf`: Overview of dataset contents, variables, processing steps
-- `data_instructions.txt`: Explains how to download and organize the dataset
+- `Data Instructions.pdf`: Explains how to download and organize the dataset
 
 ### Reference Materials
 - `CS3 Hook Document.pdf`: One-page overview of the project
