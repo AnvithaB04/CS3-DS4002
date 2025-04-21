@@ -30,7 +30,7 @@ Contains references contextualizing the project:
 - [`data_preprocessing.py`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/SCRIPTS/data_preprocessing.py): Resizes, normalizes, and augments images for training
 - [`requirements.txt`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/requirements.txt): Lists all necessary Python packages and versions required to run the scripts
 
-  ### Reference Materials
+### Reference Materials
 - [`CS3HookDocument.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/CS3HookDocument.pdf): One-page overview of the project
 - [`CS3Rubric.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/CS3Rubric.pdf): Submission guidelines and evaluation rubric
 ---
