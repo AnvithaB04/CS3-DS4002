@@ -20,13 +20,13 @@ Contains references contextualizing the project:
 - [`deep_resnet_paper.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/ARTICLES/deep_resnet_paper.pdf): Detailed explanation of the ResNet50 CNN architecture
 (Medium: Detailed Explanation of ResNet50)
 
-### Data folder
-- [`DataAppendix.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/DATA/DataAppendix.pdf): Overview of dataset contents, variables, processing steps
-- [`Data Instructions.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/DATA/Data%20Instructions.pdf): Explains how to download and organize the dataset
-
 ### Reference Materials
 - [`CS3HookDocument.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/CS3HookDocument.pdf): One-page overview of the project
 - [`CS3Rubric.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/CS3Rubric.pdf): Submission guidelines and evaluation rubric
+
+### Data folder
+- [`DataAppendix.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/DATA/DataAppendix.pdf): Overview of dataset contents, variables, processing steps
+- [`Data Instructions.pdf`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/DATA/Data%20Instructions.pdf): Explains how to download and organize the dataset
 
 ### Scripts folder
 - [`Model_Training_and_Evaluation.ipynb`](https://github.com/AnvithaB04/CS3-DS4002/blob/main/SCRIPTS/Model_Training_and_Evaluation.ipynb): Full Colab notebook for model training/evaluation
