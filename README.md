@@ -16,7 +16,7 @@ Before doing anything, read the 2 files within the **Reference Materials** folde
 
 ### Articles folder
 Contains references contextualizing the project:
-- `blog_intro_to_transfer_learning.pdf`: Beginner-friendly overview of transfer learning from Analytics Vidhya
+- `blog_intro_to_transfer_learning.pdf`: Beginner-friendly overview of transfer learning 
 (Understanding Transfer Learning for Deep Learning)
 
 - `deep_resnet_paper.pdf`: Detailed explanation of the ResNet50 CNN architecture
